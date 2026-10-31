@@ -17,3 +17,11 @@ The audit therefore completed the missing design, content and collaboration guid
 ## 2026-10-31 — Review before public visibility
 
 Babuni.dev requested review of the actual private repository and its documentation before publication. AI inspected fetched Git history, documentation coverage and publication boundaries. The publication record separates source visibility from deployment, licensing and media redistribution; detailed private findings remain outside the portfolio. No build, gameplay, live account or database test was performed.
+
+## 2026-10-31 — Publication direction and author clarification
+
+**Babuni.dev direction and decision:** Babuni.dev decided to make the actual project repository publicly accessible, with the intention of developing it openly rather than maintaining a separate public documentation edition. GitHub visibility was verified as public on 31 October 2026.
+
+The public repository currently remains a documented placeholder. Publishing it does not automatically transfer the world-design corpus from Ethera.
+
+**AI contribution:** Recorded the author’s decision and clarification, separately from observed GitHub visibility. Earlier documentation-only publication was considered and is superseded as the intended long-term source. No root license was selected by this update; public visibility, open-source reuse permissions, media rights and production readiness are separate matters. No runtime testing or behavior change is claimed.
