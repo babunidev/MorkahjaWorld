@@ -4,7 +4,7 @@
 
 ## Actual current status
 
-Placeholder; README-only. No code or tests available.
+Placeholder with supporting project documentation. No code or tests available.
 
 ## Unresolved (not an approved feature schedule)
 

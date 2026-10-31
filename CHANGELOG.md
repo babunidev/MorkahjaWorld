@@ -11,3 +11,7 @@
 
 - Completed the standard documentation structure and clarified the reserved status, source boundaries and human–AI attribution.
 - No game source, lore corpus, images, assets, runtime features or tests added.
+
+## 2026-10-31 — Publication preparation
+
+Recorded Babuni.dev’s direction to publish the actual project after review and retire its separate documentation edition afterwards. Confirmed the existing standard document structure; added `docs/PUBLISHING.md`. No runtime or visibility changes.

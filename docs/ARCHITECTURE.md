@@ -2,7 +2,7 @@
 
 **Author:** Babuni.dev
 
-There are no project source files, tests, lore documents or other specifications committed here beyond README.md.
+The repository contains a README and supporting Markdown records, but no implementation, tests or independent lore corpus.
 
 No architecture has been implemented in this repository. Do not substitute architecture from a similarly named project without explicit integration.
 

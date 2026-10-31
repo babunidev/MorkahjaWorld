@@ -2,7 +2,7 @@
 
 **Author:** Babuni.dev
 
-A reserved repository name for Morkahja world material; it currently contains a root README only.
+A reserved repository name for Morkahja world material; it currently contains a README and supporting project documentation, without an independent canon corpus.
 
 No more detailed specification is present in this repository as of the 2026-10-26 inspection.
 
