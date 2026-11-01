@@ -1,22 +1,27 @@
-# Publication preparation — 31 October 2026
+# MorkahjaWorld — Publication Status
 
-Babuni.dev has requested that the actual project repository eventually replace its separate public documentation edition. The standard ten-document structure already exists here; canonical design, original journals, contributor credits and history remain authoritative within their documented scopes.
+**Creative:** Babuni  
+**Status as of 1 November 2026:** GitHub repository public; existing lore archive imported
 
-## Review status
+## What is public
 
-No publication blocker found in the reviewed Markdown-only repository. It remains a reserved space, not a populated worldbuilding archive.
+The actual [MorkahjaWorld repository](https://github.com/babunidev/MorkahjaWorld) is public. On 1 November, commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac) added 106 Markdown lore files to the previously documented repository.
 
-Reviewed baseline: `286acaa96f7e21334b396b8062e40d540fbac3cf`; 14 reachable commits. Gitleaks v8.30.1 scanned all fetched refs with fully redacted reporting; a separate pass inspected unique historical blobs for credential markers and sensitive filenames. The three Morkahja scanner alerts were catalogue identifiers, not credentials. No confirmed credential leak was found by these checks. Automated checks cannot establish asset ownership or prove the absence of every secret or personal detail in binary material.
+Visibility is not the same as open-source licensing, permission to redistribute third-party material, deployment of a website, or release of a playable application. No project-wide license decision is recorded.
 
-Repository visibility is now public, verified on 31 October 2026. The agent did not change visibility. Media/license review items below remain unresolved by that visibility change. No live service, player account, database or deployment was accessed. Private review details remain outside the public portfolio repository. No application behavior was changed or runtime/build test claimed.
+## Earlier publication review — 31 October 2026
 
-## Remaining publication steps
+Before the lore import, AI reviewed the earlier repository baseline (`286acaa96f7e21334b396b8062e40d540fbac3cf`) and reported a Gitleaks v8.30.1 scan of fetched history, a separate inspection of historic blobs, and three catalogue-identifier alerts that were not confirmed credentials. That review concerned **the earlier, largely documentation-only baseline**.
 
-1. Resolve any repository-specific hold above and review the exact final commit before publishing.
-2. Babuni.dev chooses a license for original code/documentation and confirms separate permissions for contributed or third-party media. No root project license was found in this baseline. Public visibility and open-source licensing are separate decisions; do not apply a blanket license to third-party assets.
-3. Public visibility is now observed. Verify anonymous document access, then update the portfolio's source mapping and import/build its documentation snapshot.
-4. Keep the current public documentation edition connected until the replacement is verified. Retire the duplicate edition afterwards; deleting repository history is not part of this preparation.
+Those findings must **not** be read as a scan or rights review of the subsequently imported world-building collection. Automated inspection cannot establish authorship, third-party rights, or the absence of all sensitive material.
 
-## Direction and alternatives
+The earlier intention to retire a separate documentation-only edition after confirming replacement remains a historical publication decision. This file does not claim that such a retirement or portfolio update has already occurred.
 
-**Human direction:** Babuni.dev requests publication of actual projects and retirement of separate documentation editions after review. **AI assistance:** repository/history inspection and this preparation record. Keeping implementation private with curated public summaries was the earlier approach; it is superseded as the intended destination, but remains the working bridge until publication checks pass. No creative design, license or asset-rights decision was invented by this review.
+## Outstanding distinctions
+
+- **Licensing:** Public readability does not provide blanket reuse rights. The human creative has not recorded a repository-wide license choice.
+- **Content rights:** Any externally sourced material requires its own attribution and permission assessment.
+- **Verification:** The imported Markdown files have not been fully checked for link integrity, content accuracy, or sensitive information by this documentation review.
+- **Deployment:** This repository is a written archive, not evidence of a deployed application, running server, or tested game.
+
+The record should be updated only when those matters are actually resolved or verified.

@@ -1,23 +1,27 @@
-# MorkahjaWorld — decisions
+# MorkahjaWorld — Decisions
 
-**Author:** Babuni.dev
+**Human creative:** Babuni
 
-Preserve the placeholder as an intentional reservation; do not pretend it contains the extensive Morkahja or Ethera lore found in other repositories.
+This record separates decisions that were made from possibilities that remain open.
 
-No further design decisions were recovered from the current repository files.
+## 26–28 October 2026 — Document the repository as it existed
 
-## Audit #39 — no new world-design decision
+With no world-building corpus committed at the time, the documentation described MorkahjaWorld as a placeholder. That was a statement about the **then-current repository**, not a decision that the project must remain empty.
 
-The repository remains reserved. This audit did not decide whether it will become a lore library, a game, a content hub, or stay unused. Those alternatives are possibilities, not approved proposals. Any eventual decision must be recorded by Babuni.dev and accompanied by source provenance when other projects' material is involved.
+AI prepared the initial documentation and audit #39. No game or new world-design direction was approved by those documentation updates.
 
-## 2026-10-31 — Canonical repository publication direction
+## 31 October 2026 — Use the actual public repository
 
-Babuni.dev chose the actual project repository as the intended public source, replacing the earlier documentation-only edition once review and anonymous access succeed. Retain the current public edition during the transition. License and third-party redistribution decisions remain explicit author decisions.
+My direction was to make the actual project repository the public source, rather than maintain a documentation-only copy indefinitely. Public visibility was confirmed on 31 October. The earlier documentation-only approach remained a transitional arrangement, not the intended permanent home of the project.
 
-## 2026-10-31 — Author decision — open project development
+No blanket license or permission to redistribute third-party materials was selected as part of that decision.
 
-**Babuni.dev direction and decision:** Babuni.dev decided to make the actual project repository publicly accessible, with the intention of developing it openly rather than maintaining a separate public documentation edition. GitHub visibility was verified as public on 31 October 2026.
+## 1 November 2026 — Import the existing world-building archive
 
-The public repository currently remains a documented placeholder. Publishing it does not automatically transfer the world-design corpus from Ethera.
+The existing local Morkahja world-building folder, not a second working clone, was chosen as the Git working directory. The archive was committed and pushed to `main` as [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac). The documentation already in the repository was preserved.
 
-**AI contribution:** Recorded the author’s decision and clarification, separately from observed GitHub visibility. Earlier documentation-only publication was considered and is superseded as the intended long-term source. No root license was selected by this update; public visibility, open-source reuse permissions, media rights and production readiness are separate matters. No runtime testing or behavior change is claimed.
+AI provided Git instructions; the upload was executed locally. This decision established the repository as a **populated lore archive**, not an implemented game.
+
+## Unresolved
+
+The repository does not record an approved game-development plan, a universal reuse license, or a mandate to settle every open question in the lore. Future imports from other projects require explicit source tracing and a creative decision.
