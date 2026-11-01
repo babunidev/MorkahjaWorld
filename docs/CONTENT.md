@@ -1,13 +1,38 @@
-# MorkahjaWorld — Content Inventory and Boundaries
+# MorkahjaWorld — Content Inventory
 
-**Author:** Babuni.dev
+**Creative:** Babuni
 
-The repository has a README and supporting documentation about its reservation, but no committed implementation, canon corpus, lore asset collection, or validated content schema. Existing documentation was initialized on 2026-10-26 to make this absence explicit.
+## Verified repository snapshot
 
-Do not copy world descriptions, characters, maps, models, artwork or game rules from other Babuni.dev repositories into this placeholder without a clear user direction and attribution trail. In particular, **Morkahja**, **Ethera**, and **MorkahjaWorld** are different repositories, even if their themes or names overlap.
+At commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac) on 1 November 2026, the GitHub tree contained **118 Markdown files**: **106 lore files** and **12 project documents**.
 
-If the reservation later becomes an active project, inventory each addition with its source path, creative owner, licenses/rights where relevant, whether it is canonical or exploratory, and its implementation/verification state. No content transfer occurred in audit #39.
+| Lore location | Files |
+| --- | ---: |
+| `Creatures/` | 10 |
+| `Magic/` | 10 |
+| `Nature/` | 2 |
+| `Objects/` | 12 |
+| `Overview/` | 3 |
+| `Pantheon/` | 3 |
+| `People/` | 6 |
+| `Places/` | 42 |
+| `Races/` | 5 |
+| `Traditions/` | 7 |
+| `WorldEvents/` | 2 |
+| `WorldHistory/` | 2 |
+| Root lore indexes (`Lore_Index.md`, `Names_Index.md`) | 2 |
+| **Total lore files** | **106** |
 
-## 2026-10-31 — Publication boundaries
+The remaining five root project files and seven `docs/` files describe the repository rather than Morkahja's fictional world.
 
-The existing standard documentation is the project source for the future portfolio connection. See [publication preparation](PUBLISHING.md). Preserve contributor credits, canonical-source boundaries and original journals. No private findings, live records or secret values are copied into the portfolio.
+## Reading and source boundaries
+
+Start with [Lore Index](../Lore_Index.md), [World Identity](../Overview/World_Identity.md), and [World Overview](../Overview/World_Overview.md). The world entries are the content source; this inventory summarizes their presence, not the truth or completeness of each statement.
+
+The material was imported as an existing archive. Its import commit does not establish who originally drafted or revised individual articles. Canon, working possibilities, and intentional gaps should remain distinct.
+
+Other projects named Morkahja or Ethera are not implicitly merged into this one. Inside the world itself, **Ethera** is a documented living figure; that subject is not evidence of a repository transfer. Future external imports need source paths, attribution, and a decision from the human creative.
+
+## Review limits
+
+This review did not rewrite or comprehensively validate the lore, test every Markdown link, or establish rights clearance for external material. No application or multimedia assets were found in the snapshot.

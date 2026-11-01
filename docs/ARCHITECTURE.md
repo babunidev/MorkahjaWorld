@@ -1,11 +1,24 @@
-# MorkahjaWorld — architecture status
+# MorkahjaWorld — Repository Structure
 
-**Author:** Babuni.dev
+**Creative:** Babuni
 
-The repository contains a README and supporting Markdown records, but no implementation, tests or independent lore corpus.
+## Current form
 
-No architecture has been implemented in this repository. Do not substitute architecture from a similarly named project without explicit integration.
+MorkahjaWorld is a **Markdown world-building archive** stored in Git. At the import commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac), it contained 118 Markdown files: 106 lore files and 12 project-documentation files.
 
-## Audit #39 — absence of an executable architecture
+There is no observed application code, package manifest, build system, or runtime test harness. A content directory structure should not be mistaken for a game or software architecture.
 
-No implementation, package manifest or test harness is documented for this repository. The existing Markdown records make the placeholder discoverable, but do not constitute a software architecture. Architectural diagrams or dependencies from Morkahja or Ethera must not be treated as local implementation here without a future explicit scope decision.
+## Navigation
+
+- [`Lore_Index.md`](../Lore_Index.md) is the primary entry point to the fictional world.
+- [`Names_Index.md`](../Names_Index.md) lists names and subjects across the material.
+- Twelve subject directories contain lore entries and their local indexes: `Creatures/`, `Magic/`, `Nature/`, `Objects/`, `Overview/`, `Pantheon/`, `People/`, `Places/`, `Races/`, `Traditions/`, `WorldEvents/`, and `WorldHistory/`.
+- Five root project documents and seven files under `docs/` record the development process, collaboration, status, and publication boundaries.
+
+Cross-links and indexes are part of the reading experience. Their complete correctness has **not** been validated by this documentation-only review.
+
+## Working model
+
+The human creative maintains the project material in an existing local folder and publishes changes through GitHub. The November 2026 import retained the existing project documents while adding the source lore. AI assisted with Git instructions and project-documentation organization, not with an observed software implementation.
+
+Do not import technical architecture from similarly named Morkahja or Ethera projects without an explicit and traceable decision.

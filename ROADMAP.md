@@ -1,21 +1,26 @@
-# MorkahjaWorld — roadmap
+# MorkahjaWorld — Roadmap
 
-**Author:** Babuni.dev
+**Creative:** Babuni
 
-## Actual current status
+This roadmap tracks the care and accessibility of the archive. It does not invent a game-development schedule or treat unresolved lore as work that must be completed.
 
-Placeholder with supporting project documentation. No code or tests available.
+## Completed
 
-## Unresolved (not an approved feature schedule)
+- [x] Establish the GitHub repository and initial project documentation (October 2026).
+- [x] Make the actual repository publicly accessible (31 October 2026, as recorded in the publication history).
+- [x] Import the existing local Morkahja world-building collection into the repository (1 November 2026; [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac)).
+- [x] Retain the repository's project documentation alongside the imported lore.
 
-Confirm whether this repository should stay a placeholder; any transfer of lore or assets requires an explicit plan and source trace.
+## Documentation maintenance to assess
 
-## Audit #39 — completed documentation and future decisions
+The following are review items, **not approved deadlines or creative changes**:
 
-- [x] Maintain the reservation without inventing software or lore.
-- [x] Add the missing design, content, and collaboration guide files.
-- [ ] Ask Babuni.dev to define whether this repository should remain reserved or take on a specific purpose.
-- [ ] Only after a decision, document source paths, rights and transfer boundaries for any imported world materials.
-- [ ] Establish acceptance tests only when implementation work actually exists.
+- [ ] Validate the archive's relative Markdown links and navigation indexes without rewriting story content.
+- [ ] Check whether file permissions and naming conventions should be normalized.
+- [ ] Keep the project documentation accurate when the repository changes.
+- [ ] Record source provenance for any future imports from other projects.
+- [ ] Decide whether and how to license original material; review any third-party rights separately.
 
-No game-development milestone is approved by these documentation updates.
+## Not decided
+
+No game implementation, release date, interface design, or requirement to resolve all open lore questions has been approved by this repository's documentation.

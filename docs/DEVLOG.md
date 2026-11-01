@@ -1,27 +1,25 @@
-# MorkahjaWorld — development journal
+# MorkahjaWorld — Development Journal
 
-**Author:** Babuni.dev
+The following entries describe the repository's development from my perspective as its human creative. Earlier inspections are preserved as history, not as descriptions of its present state.
 
-## Retrospective repository inspection — 2026-10-26
+## 26 October 2026 — A reserved place
 
-A reserved repository name for Morkahja world material; it currently contains a root README only. There are no project source files, tests, lore documents or other specifications committed here beyond README.md. Preserve the placeholder as an intentional reservation; do not pretend it contains the extensive Morkahja or Ethera lore found in other repositories.
+At the first recorded inspection, the GitHub repository held little more than a README. The larger Morkahja world-building collection had not yet been imported here, so the project documentation described a reserved name rather than a populated archive. AI helped establish a minimal record without inventing a game, missing source code, or a migration that had not happened.
 
-The available evidence is a README-only reservation, not a working application. AI introduced documentation to make that absence explicit and prevent future misattribution. No prior iterations or tests are claimed. Confirm whether this repository should stay a placeholder; any transfer of lore or assets requires an explicit plan and source trace.
+## 28 October 2026 — Documenting what was actually there
 
-## 2026-10-28 — Audit #39: documenting a deliberate absence
+The next audit continued that cautious approach. AI added design, content, and collaboration documents, explaining why a repository with almost no material could not yet support claims about implementation or a local lore corpus. Those statements were accurate for that moment, although the later import would change the situation.
 
-Unlike an active game project, MorkahjaWorld offers no source-backed development sequence to reconstruct. Its earlier documentation already explained that the name reserves a space without holding an independent implementation or canon archive. That is useful historical information in its own right: an empty place in a project ecosystem must not be filled with invented milestones or borrowed achievements.
+## 31 October 2026 — Choosing the public project repository
 
-The audit therefore completed the missing design, content and collaboration guides while keeping all three clear about what does **not** yet exist. **Babuni.dev direction:** Continue the numbered documentation process. **AI contribution:** Organization and source-boundary clarification only. **Decision status:** No new creative direction accepted for the placeholder. **Verification:** Inspected repository documentation; no game tests or content migration.
+Rather than keep a separate documentation-only edition as the permanent public record, my direction was to use the actual project repository. AI reviewed its then-current documentation and prepared publication notes. Public visibility was confirmed, while questions about licensing and individual content rights remained separate. No game, deployment, or gameplay test resulted from that review.
 
-## 2026-10-31 — Review before public visibility
+## 1 November 2026 — Bringing the world into the repository
 
-Babuni.dev requested review of the actual private repository and its documentation before publication. AI inspected fetched Git history, documentation coverage and publication boundaries. The publication record separates source visibility from deployment, licensing and media redistribution; detailed private findings remain outside the portfolio. No build, gameplay, live account or database test was performed.
+With my existing local Morkahja world-building folder ready, the next task was to put its contents under Git version control without replacing the project's existing documentation. An initial suggestion to work in a second local clone was unnecessary, so my existing folder became the working repository instead. AI provided terminal commands, and the import and push were executed on my computer.
 
-## 2026-10-31 — Publication direction and author clarification
+Commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac) brought 106 lore Markdown files into GitHub. The folder structure covers places, peoples, creatures, magic, objects, traditions, and other parts of Morkahja. This was an import of existing work, not newly written lore or a verified game implementation.
 
-**Babuni.dev direction and decision:** Babuni.dev decided to make the actual project repository publicly accessible, with the intention of developing it openly rather than maintaining a separate public documentation edition. GitHub visibility was verified as public on 31 October 2026.
+## 1 November 2026 — Correcting the project's description (proposed documentation revision)
 
-The public repository currently remains a documented placeholder. Publishing it does not automatically transfer the world-design corpus from Ethera.
-
-**AI contribution:** Recorded the author’s decision and clarification, separately from observed GitHub visibility. Earlier documentation-only publication was considered and is superseded as the intended long-term source. No root license was selected by this update; public visibility, open-source reuse permissions, media rights and production readiness are separate matters. No runtime testing or behavior change is claimed.
+Once the world material was present, the old placeholder language no longer described my repository. The project-documentation review was therefore limited to status, navigation, authorship, and the account of how the files arrived; the lore itself was outside its scope. AI prepared revised project documents for review without changing the fictional material. Acceptance of that revision depends on merging the documentation branch.
