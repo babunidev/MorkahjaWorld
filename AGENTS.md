@@ -25,3 +25,7 @@ Use `README.md`, `CONCEPT.md`, `ROADMAP.md`, `CHANGELOG.md`, and `docs/` for pro
 Write public-facing development narratives in the **human creative's first-person perspective**, with natural sentences that **never begin with “I” or “My.”** Describe the creative's choice, the AI's actual assistance, implementation, and verification without attributing the AI's actions to the human. Refer to the person making the work as a **creative**, not a “creator.”
 
 Technical instructions may use a neutral voice. Keep the journal concise, publication-safe, and faithful to what can be verified.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
