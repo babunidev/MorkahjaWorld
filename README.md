@@ -1,10 +1,7 @@
 # MorkahjaWorld
 
 **Creative:** Babuni  
-**Project type:** Original fantasy world-building and lore archive  
-**Status:** Populated Markdown reference collection; not a playable game or software application
-
-Morkahja is my fantasy world, shaped by elemental relationships, living magic, places, peoples, traditions, and histories. This repository holds the written world-building material rather than a running game.
+Morkahja is my fantasy world, shaped by elemental relationships and living magic. This archive collects its places, peoples, traditions and histories as written references.
 
 The existing collection was imported into this repository on **1 November 2026** from my local Morkahja world-building folder. AI assisted with the Git procedure and documentation review; that assistance does not transfer authorship of the world or establish how each older lore passage was written.
 
@@ -21,7 +18,7 @@ The archive is organized into twelve subjects:
 
 Some entries deliberately distinguish established material from unresolved possibilities. Their open questions are part of the creative work, not missing implementation.
 
-## About this repository
+## How the archive was assembled
 
 At import commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac), the collection contained **106 lore Markdown files** and **12 project-documentation files**. The lore files were imported as existing material, not newly authored by the import.
 
