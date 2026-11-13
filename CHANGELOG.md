@@ -27,3 +27,8 @@ This file records changes to the repository and its project documentation. It is
 
 - Created a minimal, evidence-based record of the then-reserved repository.
 - No runtime behavior or imported world-building corpus was present in that initial inspection.
+
+## 2026-11-13 — License and rights
+
+- Established all rights reserved for original lore and worldbuilding and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No gameplay or runtime verification is claimed.
