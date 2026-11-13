@@ -25,7 +25,7 @@ Some entries deliberately distinguish established material from unresolved possi
 
 At import commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac), the collection contained **106 lore Markdown files** and **12 project-documentation files**. The lore files were imported as existing material, not newly authored by the import.
 
-The repository is public to read. Public availability alone does not grant a blanket license to reuse its original material or any third-party contributions. No project-wide license decision is recorded here.
+The original lore archive remains **all rights reserved**, as stated in [LICENSE](LICENSE). Public visibility does not grant reuse rights. Third-party contributions remain subject to their own terms.
 
 ## Project documentation
 
