@@ -25,3 +25,7 @@ The earlier intention to retire a separate documentation-only edition after conf
 - **Deployment:** This repository is a written archive, not evidence of a deployed application, running server, or tested game.
 
 The record should be updated only when those matters are actually resolved or verified.
+
+## 13 November 2026 — Rights notice
+
+Babuni selected **all rights reserved** for original worldbuilding in this repository; [LICENSE](../LICENSE) now records that choice. This replaces the earlier *undecided licensing* status for Babuni's original material. Third-party rights and the source history of individual lore entries remain separately relevant. No blanket open-content grant is implied.
