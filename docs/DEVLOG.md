@@ -23,3 +23,7 @@ Commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f
 ## 1 November 2026 — Correcting the project's description (proposed documentation revision)
 
 Once the world material was present, the old placeholder language no longer described my repository. The project-documentation review was therefore limited to status, navigation, authorship, and the account of how the files arrived; the lore itself was outside its scope. AI prepared revised project documents for review without changing the fictional material. Acceptance of that revision depends on merging the documentation branch.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved all rights reserved for the original lore archive. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
