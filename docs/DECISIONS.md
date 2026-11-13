@@ -25,3 +25,7 @@ AI provided Git instructions; the upload was executed locally. This decision est
 ## Unresolved
 
 The repository does not record an approved game-development plan, a universal reuse license, or a mandate to settle every open question in the lore. Future imports from other projects require explicit source tracing and a creative decision.
+
+## 2026-11-13 — Licensing decision
+
+To make the reuse terms explicit, I approved all rights reserved for original worldbuilding, with no general reuse permission. This applies only to material for which the relevant rights can be granted; third-party contributors keep their own credits and licenses. AI assistance committed the license notice and updated project-facing documentation. This was a legal/documentation change, not a runtime feature or test.
