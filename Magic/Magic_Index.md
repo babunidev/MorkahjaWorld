@@ -57,6 +57,7 @@
 - [Core Elements](Elemental_Foundation.md#core-elements)
 - [Composite Forces](Elemental_Foundation.md#composite-forces)
 - [Divine Domains and the Tribunals](Elemental_Foundation.md#divine-domains-and-the-tribunals)
+- [Life, Divine Essence, and Time](Elemental_Foundation.md#life-divine-essence-and-time)
 - [Elemental Relationships](Elemental_Foundation.md#elemental-relationships)
 - [Magic](Elemental_Foundation.md#magic)
 - [Materials](Elemental_Foundation.md#materials)
