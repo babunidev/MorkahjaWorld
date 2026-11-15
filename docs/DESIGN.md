@@ -6,7 +6,7 @@
 
 Morkahja is a young, elemental fantasy world. Its existing [World Identity](../Overview/World_Identity.md) describes Fire, Water, Earth, Air, and the connecting nature of Aether, alongside wonder, danger, mystery, and the consequences of magic's corruption.
 
-My world-building material is arranged as interrelated accounts of places, races, creatures, culture, objects, and history. The archive preserves unresolved possibilities where the world has deliberately been left open; documentation maintenance must not turn every mystery into a settled answer.
+My world-building material is arranged as interrelated accounts of places, races, creatures, culture, objects, and history. The archive preserves unresolved possibilities where the world has deliberately been left open; documentation maintenance must not turn every mystery into a settled answer. In particular, the [Divine Laws](../Pantheon/Divine_Laws.md) define every soul's freedom to reincarnate while intentionally leaving the gods' inner realms unknowable.
 
 ## Presentation design
 
