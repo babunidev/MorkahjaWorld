@@ -30,6 +30,8 @@ The Elemental Pantheon is formed from four divine tribunals:
 
 The world beneath these tribunals functions through a layered [Elemental Foundation](../Magic/Elemental_Foundation.md), where core elements, composite forces, divine domains, materials, creatures, cultures, and magic all emerge from relationships rather than isolated categories.
 
+The [Divine Laws](../Pantheon/Divine_Laws.md) establish shared essence, the passage through [Atranor](../Places/Atranor.md), resurrection, every soul's right to reincarnate, and the limits of the gods' physical intervention. Ordius and Khaotys keep time; no being, including a god, can know a future that has not yet occurred. The Pantheon works cooperatively rather than through rivalry.
+
 ## Created Races
 
 ### The Rokur
