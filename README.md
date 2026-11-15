@@ -10,7 +10,7 @@ The existing collection was imported into this repository on **1 November 2026**
 
 ## Explore the world
 
-Start at the [Lore Index](Lore_Index.md) or the [World Overview](Overview/World_Overview.md). The [Names and Subjects Index](Names_Index.md) offers another route through the collection.
+Start at the [Lore Index](Lore_Index.md) or the [World Overview](Overview/World_Overview.md). The [Names and Subjects Index](Names_Index.md) offers another route through the collection. For the established laws of divine essence, judgment, reincarnation, time, and the gods' shared domains, read [Divine Laws](Pantheon/Divine_Laws.md).
 
 The archive is organized into twelve subjects:
 
