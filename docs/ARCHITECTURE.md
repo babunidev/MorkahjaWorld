@@ -6,6 +6,8 @@
 
 MorkahjaWorld is a **Markdown world-building archive** stored in Git. At the import commit [`18a6c90`](https://github.com/babunidev/MorkahjaWorld/commit/18a6c90426f42086efe32ccb74165cd30f4f71ac), it contained 118 Markdown files: 106 lore files and 12 project-documentation files.
 
+As of 15 November 2026, the tree has 120 Markdown files: 107 lore entries and 13 project-documentation files, including [Divine Laws](../Pantheon/Divine_Laws.md), which centralizes the approved Pantheon cosmology. The import counts above remain historical.
+
 There is no observed application code, package manifest, build system, or runtime test harness. A content directory structure should not be mistaken for a game or software architecture.
 
 ## Navigation
