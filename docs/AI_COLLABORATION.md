@@ -20,6 +20,8 @@ The 1 November import brought an **existing** world-building archive into GitHub
 
 **1 November 2026, documentation review:** A review identified descriptions that still called the populated archive a placeholder and a development journal written in a detached, third-person style. AI drafted corrections limited to project documentation. The lore files were not modified by that review.
 
+**15 November 2026 — Pantheon integration:** In a guided lore interview, I approved specific rules for divine essence, Atranor, resurrection, reincarnation, time, free will, the gods' conduct, and their shared domains. ChatGPT (GPT-6) synthesized the approved answers, edited the relevant GitHub lore files through the connected GitHub tool, and updated the project records. The decisions originated with me; the drafting, cross-reference maintenance, and repository edits were AI-assisted. The true nature of the gods' inner realms remains deliberately undecided.
+
 ## Publication standard
 
 Public development narratives speak from my first-person perspective without sentences beginning with “I” or “My.” They distinguish my creative intent and decisions from AI assistance, actual file changes, and what was verified. Missing history remains explicitly uncertain rather than being filled with a convenient story.
