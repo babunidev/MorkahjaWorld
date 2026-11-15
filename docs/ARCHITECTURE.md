@@ -15,7 +15,7 @@ There is no observed application code, package manifest, build system, or runtim
 - [`Lore_Index.md`](../Lore_Index.md) is the primary entry point to the fictional world.
 - [`Names_Index.md`](../Names_Index.md) lists names and subjects across the material.
 - Twelve subject directories contain lore entries and their local indexes: `Creatures/`, `Magic/`, `Nature/`, `Objects/`, `Overview/`, `Pantheon/`, `People/`, `Places/`, `Races/`, `Traditions/`, `WorldEvents/`, and `WorldHistory/`.
-- Five root project documents and seven files under `docs/` record the development process, collaboration, status, and publication boundaries.
+- Five root project documents and eight files under `docs/` record the development process, collaboration, status, and publication boundaries.
 
 Cross-links and indexes are part of the reading experience. Their complete correctness has **not** been validated by this documentation-only review.
 
