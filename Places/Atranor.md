@@ -1,6 +1,6 @@
 # Atranor
 
-[Places index](Places_Index.md) · [All lore](../../README.md)
+[Places index](Places_Index.md) · [All lore](../Lore_Index.md) · [Divine Laws](../Pantheon/Divine_Laws.md)
 
 **Classification:** Divine realm, parallel afterlife, seat of the Pantheon  
 **Inhabitants:** The gods, divine dragons, departed souls, spiritual beings  
@@ -9,7 +9,7 @@
 
 Atranor is the home of the [Elemental Pantheon](../Pantheon/Elemental_Pantheon.md) and the realm where the souls of sentient beings arrive after death. It is not a conventional underworld. It exists as a parallel layer of reality adjacent to the mortal world, close enough for souls, dreams, divine influence, and exceptional magic to cross between them.
 
-When a person dies, the body remains in the mortal world while the soul phases into Atranor. The transition resembles teleportation into another layer of existence rather than a journey through physical distance. The soul arrives carrying its memories, relationships, choices, regrets, kindnesses, and harms.
+When a living being loses its last life-sustaining fragment of divine essence, that fragment returns to the god to whom it belongs, and the body dies in the manner of its people. The soul phases into Atranor. The transition resembles passage into another layer of existence rather than a journey through physical distance. The soul arrives carrying its memories, relationships, choices, regrets, kindnesses, and harms.
 
 ## The Realm
 
@@ -23,7 +23,7 @@ The realm feels peaceful, but never small or fully safe. There is no discernible
 
 Atranor is where the gods encounter and judge the souls of sentient beings. The judgement is not necessarily spoken or explained. The realm itself appears to reveal the soul, making its memories transparent and placing its actions into a wider pattern of consequence.
 
-The gods may speak, remain silent, take the forms of their divine dragons, or allow the soul to understand without language. No single tribunal claims exclusive authority over judgement. The Pantheon considers the whole of a life, including intention, circumstance, change, relationships, and the consequences of a person's choices.
+The gods may speak, remain silent, take the forms of their divine dragons, or allow the soul to understand without language. Three gods hold a particular responsibility in judgment: **Aerisara**, **Sylvanus**, and **the deity whose essence the deceased held last**. The last of these changes from soul to soul. Their judgment considers the whole of a life, including intention, circumstance, change, relationships, and the consequences of a person's choices. The wider Pantheon remains capable of granting essence for resurrection; no single tribunal monopolizes that gift.
 
 This process is not described as a simple division between reward and punishment. Atranor reveals what a soul has become and what it might still become.
 
@@ -38,7 +38,7 @@ The four known Atranor Items are:
 - Stone
 - Elixir
 
-A soul that possesses one of these treasures at the moment of death may offer it during judgement. The offering can persuade the Pantheon to grant another chance at life, though the gods do not reveal a fixed rule for when an offering succeeds.
+A soul that possesses one of these treasures at the moment of death may offer it during judgment. An offering may persuade one or more gods to give essence for **resurrection into the soul's previous life**. No offering is guaranteed to succeed, and a soul's right to reincarnate is not contingent on any treasure.
 
 Other mortal objects may also carry a connection to Atranor. The Atranor's Beacon and [Atranor's Lament](../Objects/Relics_and_Enigmas.md#atranors-lament) found in Everwinter are associated with the realm, but their exact relationship to the four sacred items remains unknown.
 
@@ -46,9 +46,9 @@ Other mortal objects may also carry a connection to Atranor. The Atranor's Beaco
 
 A soul may also encounter the Dice of Fortune. The die rests upon a pale pedestal on a circular platform reached by a path that forms across the black stone plains.
 
-The gods do not provide a predetermined explanation for its result. A successful roll means that the soul is somehow permitted to continue living, but the reason remains open to interpretation. A dragon may have intervened. A deity may have recognized something within the soul. An unseen event in the mortal world may have changed the outcome. It may even have been simple fortune.
+The gods do not provide a predetermined explanation for its result. A successful roll may accompany a return to the soul's previous life, but resurrection still requires at least one deity to offer essence. The reason for any such gift remains open to interpretation. A deity may have recognized something within the soul, or the roll may be an expression of fortune rather than a rule that binds the gods.
 
-The Dice of Fortune remains a divine mystery. Those who return to life may understand its meaning differently, and no mortal account establishes why the Pantheon permits a return.
+The Dice of Fortune remains a divine mystery. Those who return to life may understand its meaning differently, and no mortal account establishes why a deity chooses to permit a return.
 
 ## Arrival in Atranor
 
@@ -56,26 +56,28 @@ A newly arrived soul finds itself upon an endless plain of polished black stone 
 
 Divine dragons watch from cliffs and ruined stairways. Some sleep. Some observe the newly arrived. None need to explain why the soul has come.
 
-As the soul moves forward, its memories become transparent. The realm reveals kindness, cruelty, regret, choice, and experience without reducing them to a single spoken verdict. A path forms toward a great circular platform, where the Pantheon gathers around a pale die.
+As the soul moves forward, its memories become transparent. The realm reveals kindness, cruelty, regret, choice, and experience without reducing them to a single spoken verdict. A path forms toward a great circular platform. Aerisara, Sylvanus, and the deity associated with the soul's final essence may be present, with the pale die nearby.
 
-At this place, death becomes a question rather than an ending. The soul may be granted another life, or it may pass onward.
+At this place, death becomes a question rather than an ending. A willing god may restore the former life through a gift of essence, or the soul may pass onward without being resurrected.
 
-## The Aether and Reincarnation
+## The Divine Realms and Reincarnation
 
-If a soul is not granted another chance at life, it returns to the Aether. There, its identity gradually enters the greater cycle of elemental existence and may eventually be reincarnated.
+If the gods do not grant resurrection, the soul enters the **inner realm of the deity associated with its final fragment of essence**. It unites elementally with that deity yet remains fully itself: conscious, remembering, and capable of choice. Each god's inner realm is distinct. Its true nature—and the experience of souls within it—is deliberately unknown to those still living.
 
-The nature of reincarnation remains uncertain. Some souls may carry impressions, instincts, affinities, or unresolved connections into a new life. Others may dissolve completely into the currents of existence. The Pantheon has offered no universal account, and the different races preserve their own interpretations.
+No god may keep a soul against its will. By unanimous agreement of the Pantheon, **every soul has the unconditional right to reincarnate**. It may remain in the divine realm or choose to return to mortal existence. In choosing reincarnation, it chooses a new identity and form, including any of Morkahja's peoples. Several gods share the gift of essence that sustains the new life.
 
-Atranor is therefore not necessarily the final destination of a soul. It is a threshold where a life is revealed, weighed, and directed toward continuation, return, or transformation.
+Reincarnation is **not** resurrection. A reincarnated soul does not consciously remember its previous mortal lives or anything within the gods' inner realms. Impressions of former lives may survive as instincts, affinities, feelings, or recurring dreams. The way the new physical life first begins remains unresolved.
+
+See [Divine Laws](../Pantheon/Divine_Laws.md#the-right-to-reincarnation) for the shared law of the Pantheon.
 
 ## Open Possibilities
 
 - The four Atranor Items may still be hidden somewhere in the mortal world.
 - Atranor's Beacon and Atranor's Lament may be fragments, echoes, or lesser relatives of the sacred items.
-- A soul may remember Atranor after resurrection, though the memory may return as dreams, symbols, or altered elemental affinity.
+- Whether resurrected beings remember their judgment in Atranor clearly, dimly, or not at all remains unresolved.
 - The Dice of Fortune may be fair, divine, or influenced by forces outside the Pantheon.
 - A soul could be prevented from reaching Atranor by Void, corruption, the [Blackwood Abyss](Blackwood_Abyss.md), or an unknown ancient force.
-- The gods may disagree about what should happen to a soul, even when the realm presents the same memories to all of them.
+- The gods may interpret what Atranor reveals differently while maintaining their cooperative judgment and refusing rivalry.
 
 ## The Revealing Silence
 
