@@ -4,6 +4,14 @@
 
 This file records changes to the repository and its project documentation. It is not a fictional chronology of Morkahja.
 
+## 2026-11-15 — Pantheon canon integration
+
+- Added `Pantheon/Divine_Laws.md` to record approved essence, judgment, resurrection, reincarnation, time, free will, divine limitations, and shared domains.
+- Reconciled `Places/Atranor.md` with the right to reincarnate and the gods' inner realms, while retaining the Dice of Fortune and sacred offerings.
+- Updated Pantheon, magic, world-overview, relic, and relevant race entries for continuity; corrected links in the root lore index.
+- Updated the Pantheon and Magic indexes and the relevant project decision, journal, attribution, and content records.
+- Kept unresolved divine-realm experiences and reincarnation's physical arrival intentionally open; no game or runtime system was created.
+
 ## 2026-11-01 — Import of existing world-building material
 
 - Connected the existing local Morkahja world-building folder with this GitHub repository.
