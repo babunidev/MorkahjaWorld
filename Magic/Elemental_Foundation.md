@@ -126,6 +126,12 @@ The Aevis honor this tribunal because they are atmosphere made distinct. Aeriel 
 
 The Grimnir honor this tribunal because they are stone, ore, crystal, and hidden resonance made communal. Stonara gives them foundation, Ferrumis gives them craft, and Umbrael gives them depth, secrecy, and perception beyond the surface.
 
+## Life, Divine Essence, and Time
+
+The elemental composition of a living body is sustained by **divine essence**. A being may gain, share, or lose fragments of that essence during life; the loss of the final life-sustaining fragment marks death. The fragment returns to its source god, while the distinct soul enters [Atranor](../Places/Atranor.md). The soul's unconditional right to reincarnate does not mean every body has the same birth, death, or renewal process.
+
+**Ordius and Khaotys** jointly keep time through continuity and change. No future is predetermined, and not even the gods can see what has not yet occurred. These laws coexist with the particular elemental relationships that govern each race and region. See [Divine Laws](../Pantheon/Divine_Laws.md) for judgment, resurrection, reincarnation, the gods' limits, and their shared responsibilities.
+
 ## Elemental Relationships
 
 The core elements exist in a living cycle. No element is absolute. Each can support, challenge, weaken, or overbalance another depending on context.
