@@ -127,7 +127,7 @@ Death is viewed differently than among most peoples. Verdani do not fear dissolu
 
 As age advances, maintaining cohesion becomes less necessary. Currenthearts gradually loosen. The boundary between self and greater flow softens. Final dissolution ceremonies are often communal celebrations. Songs are sung. Memories are shared. Waters are returned.
 
-When dissolution occurs, the individual pattern ends, but fragments persist throughout rivers, rain, oceans, and Memory Pools. To the Verdani, death is not disappearance. It is distribution. Somewhere, within some future current, part of that memory may flow again.
+When dissolution occurs, the individual's bodily water-pattern ends, but fragments persist throughout rivers, rain, oceans, and Memory Pools. To the Verdani, death is not disappearance. It is distribution. Somewhere, within some future current, part of that memory may flow again.
 
 ## Homeland and Environment
 
