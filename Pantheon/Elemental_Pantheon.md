@@ -4,7 +4,9 @@
 
 These tribunals work together to maintain the balance of Morkahja and guide the races of the world through their challenges and triumphs. Each race has a primary connection to one tribunal based on elemental origin, though individuals may pray to gods from other tribunals according to personal belief, craft, need, or circumstance.
 
-When the gods of Morkahja visit the mortal world, they assume the forms of majestic dragons. Each dragon form reflects its deity's divine domain, allowing the god to interact with mortals in a powerful and awe-inspiring manner.
+When the gods of Morkahja visit the mortal world, they assume the forms of majestic dragons. Each dragon form reflects its deity's divine domain, allowing the god to interact with mortals in a powerful and awe-inspiring manner. Outside dragon form, they can give or take divine essence but cannot otherwise intervene directly in the physical world. Their dragon visits are occasional but familiar, roughly as common as holidays, without a fixed known calendar.
+
+The gods are inseparable from the world and cannot be destroyed, although their immense substance changes gradually across vast spans. They cooperate rather than pursue rival agendas. Their shared laws concerning essence, judgment, reincarnation, time, free will, and mortal experience are recorded in [Divine Laws](Divine_Laws.md).
 
 ## Early Creation
 
@@ -93,6 +95,10 @@ The Terran Assembly represents continuity through form: earth that endures, meta
 **Ferrumis** appears as a resilient dragon with scales made of metals ranging from iron and steel to precious ores. Its body is well-armored and strong, its wings resemble interlocking metal plates, and its breath is a shower of molten metal that can both create and destroy.
 
 **Umbrael** appears as a mysterious, ethereal dragon with scales as black as the night sky. Its form is almost translucent, giving it an otherworldly appearance, and its breath is a cloud of inky darkness that can obscure vision and reveal hidden truths.
+
+## Divine Responsibilities Beyond the Tribunals
+
+The gods share responsibilities without creating additional tribunals. Ordius and Khaotys keep time, but neither can see an unwritten future or prescribe destiny. Aerisara and Sylvanus share responsibility for the passage from death to new life; every soul retains the right to reincarnate. Other areas of mortal life—love, dreams, decay, war, peace, remembrance, art, luck, and exploration—are held jointly by complementary deities. See [Divine Laws](Divine_Laws.md#shared-domains-of-mortal-experience) for their precise relationships.
 
 ## Worship Across Morkahja
 
