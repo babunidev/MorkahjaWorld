@@ -27,3 +27,11 @@ Once the world material was present, the old placeholder language no longer desc
 ## 2026-11-13 — Giving the repository clear permissions
 
 Public source alone did not explain what others could reuse, so I approved all rights reserved for the original lore archive. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
+
+## 15 November 2026 — Giving the Pantheon its shared laws
+
+The question was whether my Pantheon needed more gods to account for the whole of existence. Rather than extend the roster, I kept the twelve deities and used their relationships to define the missing domains. A focused interview brought the boundaries into view: essence sustains life, Atranor remains the place of judgment, resurrection requires divine willingness, and reincarnation belongs to the soul as an unbreakable right.
+
+The distinction between those two forms of return became the heart of the work. For the afterlife, my decision was to leave the gods' inner realms unseen. Souls remain themselves, but no reincarnated being can tell the living what those realms contain. Time belongs jointly to Ordius and Khaotys; the future is unwritten, even for the gods. Divine intervention also has a clear boundary: without dragon form, they may give or take essence but cannot otherwise act in the physical world.
+
+ChatGPT (GPT-6) organized these choices, wrote a new [Divine Laws](../Pantheon/Divine_Laws.md) reference and updated connected lore using the GitHub integration. Existing accounts of the Dice of Fortune, sacred offerings, and the races' distinct understandings of death were preserved where they could coexist with the new law. This was a canon and documentation revision, not a game implementation, simulation, or exhaustive audit of every lore file.
