@@ -67,4 +67,4 @@ See [Magic Corruption](../Magic/Magic_Corruption.md) for the working lore entry.
 
 Not every people or force in Morkahja fits cleanly into the current divine order. Some phenomena appear older than the known age of the world.
 
-The [Urcogor Ravage](../World_Events/Urcogor_Ravage.md) is one such recurrence: an ancient pattern in which the Urco, Gobbls, Ogrus, and their hybrid bloodlines awaken, gather, ravage, vanish, and sleep again.
+The [Urcogor Ravage](../WorldEvents/Urcogor_Ravage.md) is one such recurrence: an ancient pattern in which the Urco, Gobbls, Ogrus, and their hybrid bloodlines awaken, gather, ravage, vanish, and sleep again.
