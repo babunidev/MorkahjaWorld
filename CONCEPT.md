@@ -8,7 +8,7 @@ Morkahja is my original fantasy world: young and primal, full of elemental force
 
 Fire, Water, Earth, and Air shape the world, while Aether connects and transforms those forces. The Elemental Pantheon and the four peoples—Rokur, Verdani, Aevis, and Grimnir—provide important foundations. Ethera, a living creation of the pantheon, is part of Morkahja's own lore; her presence is not merely a reference to another repository.
 
-These are high-level orientation points drawn from the existing [World Identity](Overview/World_Identity.md) and [World Overview](Overview/World_Overview.md). The individual lore documents, not this project description, hold the details and their unresolved questions.
+The [Divine Laws](Pantheon/Divine_Laws.md) now establish how essence sustains life, how judgment and reincarnation work, and why the future remains unwritten. These are high-level orientation points drawn from the existing [World Identity](Overview/World_Identity.md) and [World Overview](Overview/World_Overview.md). The individual lore documents, not this project description, hold the details and their unresolved questions.
 
 ## Purpose of the repository
 
