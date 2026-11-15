@@ -20,4 +20,4 @@ A formidable dragon's tooth, imbued with ancient power, serving as a symbol of s
 
 ## Offerings in Atranor
 
-The four sacred treasures are beloved by the Pantheon. A soul carrying one at death may offer it during judgement and be granted another chance at life. No fixed condition guarantees that the gods accept an offering. Atranor’s Beacon and Atranor’s Lament are separate names whose relationship to these four remains unknown.
+The four sacred treasures are beloved by the Pantheon. A soul carrying one at death may offer it during judgment and be granted **resurrection**—a return to its previous life—if at least one deity gives life-sustaining essence. No offering guarantees that gift. This is distinct from the soul's unconditional right to [reincarnate](../Pantheon/Divine_Laws.md#the-right-to-reincarnation). Atranor’s Beacon and Atranor’s Lament are separate names whose relationship to these four remains unknown.
