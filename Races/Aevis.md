@@ -15,7 +15,7 @@ The Aevis are known throughout scattered records and fragmented surface myths as
 
 Within their own civilization, identity is fluid and layered. Names evolve as individuals refine themselves through life.
 
-Unlike creatures who possess souls within bodies, the Aevis exist as a negotiation between pattern and collapse, where identity itself must constantly be maintained.
+Unlike peoples who readily describe their bodies as vessels for souls, the Aevis experience embodied identity as a negotiation between pattern and collapse, where their physical individuality must constantly be maintained.
 
 Their defining paradox is freedom through restraint, motion through stillness, existence through resistance.
 
