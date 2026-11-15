@@ -1,6 +1,8 @@
 # Divine Essences
 
-[All lore](../Lore_Index.md)
+[All lore](../Lore_Index.md) · [Divine Laws](Divine_Laws.md)
+
+Each of the twelve gods contributes essence to the living world. A being may receive, give, or lose these fragments; its final life-sustaining fragment returns to its divine source at death. The soul's continuation and freedom to reincarnate are described in [Divine Laws](Divine_Laws.md#divine-essence-and-mortal-life). The names below identify the essences and their primary divine associations, not exclusive ownership of a mortal's existence.
 
 ## Aeriel's Soar
 
