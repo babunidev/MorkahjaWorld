@@ -254,7 +254,7 @@ Regarding death, beliefs vary slightly between clans, but most agree on one prin
 
 Rokur magic is not learned first. It is survived first.
 
-Every Rokur possesses an internal primordial flame known as the Heartfire, serving simultaneously as soul, energy source, emotional center, and magical conduit.
+Every Rokur possesses an internal primordial flame known as the Heartfire, understood within Rokur tradition as an expression of the soul, an energy source, an emotional center, and a magical conduit.
 
 Unlike external magic systems, Rokur elemental control originates internally. Their power manifests through emotional intensity filtered by discipline.
 
