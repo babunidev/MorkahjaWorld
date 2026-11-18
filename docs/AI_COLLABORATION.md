@@ -2,8 +2,6 @@
 
 Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
 
-**Human creative:** Babuni
-
 ## Attribution
 
 The world and its creative direction are mine to shape. AI may help with research, editing, organization, coding, or documentation when asked, but its suggestions are not automatically my decisions and its actions are not actions personally carried out by me.
@@ -25,3 +23,7 @@ The 1 November import brought an **existing** world-building archive into GitHub
 ## Publication standard
 
 Public development narratives speak from my first-person perspective without sentences beginning with “I” or “My.” They distinguish my creative intent and decisions from AI assistance, actual file changes, and what was verified. Missing history remains explicitly uncertain rather than being filled with a convenient story.
+
+## 18 November 2026 — Collaboration record review
+
+At my request, Codex (GPT-6) revised this record for first-person voice and checked the attribution against the available repository documentation. Where an earlier AI tool or model is missing from the record, its identity remains unconfirmed.
