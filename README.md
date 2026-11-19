@@ -29,7 +29,7 @@ The original lore archive remains **all rights reserved**, as stated in [LICENSE
 
 ## Project documentation
 
-- [Concept](CONCEPT.md) · [Roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
+- [Concept](docs/CONCEPT.md) · [Roadmap](docs/ROADMAP.md) · [Changelog](CHANGELOG.md)
 - [Architecture and file layout](docs/ARCHITECTURE.md) · [Design](docs/DESIGN.md) · [Content inventory](docs/CONTENT.md)
 - [Development journal](docs/DEVLOG.md) · [Decisions](docs/DECISIONS.md)
 - [Human–AI collaboration](docs/AI_COLLABORATION.md) · [Publication](docs/PUBLISHING.md) · [AI work rules](AGENTS.md)
