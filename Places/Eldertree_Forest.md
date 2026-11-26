@@ -17,6 +17,7 @@ The forest is associated with the Liani and with traditions of guardianship, ani
 - **[Shadowed Hollow](Eldertree_Landmarks.md#shadowed-hollow):** A secluded region where little sunlight reaches the ground and old memories seem to cling to the roots.
 - **[Sunlit Dell](Eldertree_Landmarks.md#sunlit-dell):** A warm clearing where filtered light supports rare flowers and gentle creatures.
 - **[Firefly Brook](Eldertree_Landmarks.md#firefly-brook):** A narrow stream illuminated at night by countless glowing insects.
+- **[Eternal Twilight Grove](Eternal_Twilight_Grove.md):** A haunted grove under a starlit twilight, where restless spirits may be calmed through music or magic.
 - **[Grimnir Steps](Eldertree_Landmarks.md#grimnir-steps):** Ancient stone formations whose origin and connection to the [Grimnir](../Races/Grimnir.md) remain uncertain.
 
 ## Open Possibilities
@@ -29,5 +30,6 @@ The forest is associated with the Liani and with traditions of guardianship, ani
 ## Related Lore
 
 - [Eldertree Landmarks](Eldertree_Landmarks.md)
+- [Eternal Twilight Grove](Eternal_Twilight_Grove.md)
 - [Wolves and Liani](../Creatures/Wolves_and_Liani.md)
 - [Nagar](../Creatures/Nagar.md)

@@ -47,3 +47,7 @@ Through a question-by-question review of my twelve-deity Pantheon, I chose to **
 **Intentionally open:** The interior experience of divine realms, whether departed souls meet there, the precise physical beginning of a newly chosen life, and the mechanics of the Dice of Fortune remain unresolved. These were not permission to invent answers.
 
 ChatGPT (GPT-6) organized the interview decisions, drafted their canonical expression, reconciled affected lore, and applied the authorized GitHub updates. The creative decisions are mine; the repository edits were AI-assisted.
+
+## 2026-11-26 — Eternal Twilight Grove belongs to Eldertree Forest
+
+**Decision (Babuni):** the Eternal Twilight Grove is part of Eldertree Forest. Its spirits and its tradition of calming them through music or magic stay as written. **Open:** its exact place inside the forest. **Recorded by:** Claude Code (Claude Opus 5.5).

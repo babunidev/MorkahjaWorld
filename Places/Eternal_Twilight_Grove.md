@@ -3,6 +3,7 @@
 [Places index](Places_Index.md) · [All lore](../../README.md)
 
 **Type:** Haunted forest  
+**Region:** [Eldertree Forest](Eldertree_Forest.md)  
 **Known feature:** Restless spirits
 
 The Eternal Twilight Grove is a haunted forest where spirits may be calmed through music or magic. Its twilight atmosphere suggests a place caught between memory, grief, and renewal.
