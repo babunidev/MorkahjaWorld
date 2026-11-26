@@ -51,3 +51,7 @@ ChatGPT (GPT-6) organized the interview decisions, drafted their canonical expre
 ## 2026-11-26 — Eternal Twilight Grove belongs to Eldertree Forest
 
 **Decision (Babuni):** the Eternal Twilight Grove is part of Eldertree Forest. Its spirits and its tradition of calming them through music or magic stay as written. **Open:** its exact place inside the forest. **Recorded by:** Claude Code (Claude Opus 5.5).
+
+## 2026-11-26 — The Grimnir Vault lies in Celesterra
+
+**Decision (Babuni):** the Grimnir Vault is in the mountains of Celesterra, the Grimnir homeland below their Skylands, not in Deepstone Hollow near Everwinter. The Verdani Casket lies in Eldertree Forest. **Open:** who sealed the vault and what it keeps. **Recorded by:** Claude Code (Claude Opus 5.5).

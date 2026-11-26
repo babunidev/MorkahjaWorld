@@ -39,3 +39,7 @@ ChatGPT (GPT-6) organized these choices, wrote a new [Divine Laws](../Pantheon/D
 ## 26 November 2026 — Where the Eternal Twilight Grove lies
 
 The game's map had put the Eternal Twilight Grove in Evergrove, a land of dunes and oasis-gardens, while the grove itself is a haunted woodland with no trace of Evergrove in it. Eldertree Forest is its home now, by my decision. Claude Code (Claude Opus 5.5) added the region to the grove's page and the grove to Eldertree Forest's known areas, leaving the spirits, the starlit twilight and the Moonchime Harp as they were. Where in the forest it lies stays open; the game's map point is only a placement, not canon.
+
+## 26 November 2026 — A vault in the Grimnir homeland
+
+The Grimnir Vault sat in Deepstone Hollow, close to Everwinter but not clearly in it. Celesterra is its home now, by my decision: the Grimnir may travel the whole world, but a vault belongs where their Skylands drift. Claude Code (Claude Opus 5.5) moved the account to Celesterra's page, left Deepstone Hollow its place near Everwinter with a pointer to the vault, and settled the Verdani Casket in Eldertree Forest, where my review of Evergrove placed it in the game.

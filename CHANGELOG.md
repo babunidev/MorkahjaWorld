@@ -4,6 +4,10 @@
 
 This file records changes to the repository and its project documentation. It is not a fictional chronology of Morkahja.
 
+## 2026-11-26 — The Grimnir Vault lies in Celesterra; the Verdani Casket in Eldertree Forest
+
+- **Canon update, approved by Babuni:** the Grimnir Vault is in a mountain cave of Celesterra, below the Grimnir Skylands, because a Grimnir vault belongs in their homeland. The account moved from `Places/Deepstone_Hollow.md` to a new section of `Places/Celesterra.md`; Deepstone Hollow keeps its place near Everwinter Valley and points to the vault's new page; `Names_Index.md` links follow. The Verdani Casket's woodland is Eldertree Forest, on its Evergrove side (`Objects/Chests_and_Vaults.md`); the "unsettled border" sentence was removed. The vault's description is otherwise unchanged. Claude Code (Claude Opus 5.5), with the game's matching change (Morkahja D-063).
+
 ## 2026-11-26 — Eternal Twilight Grove lies in Eldertree Forest
 
 - **Canon update, approved by Babuni:** the Eternal Twilight Grove belongs to Eldertree Forest. `Places/Eternal_Twilight_Grove.md` names the region; `Places/Eldertree_Forest.md` lists the grove among its known areas and related lore. The grove's spirits and its music-and-magic tradition (the Moonchime Harp) are unchanged; nothing else in either page was rewritten. The game placed it in Evergrove only through an interpretive map label, which had no support in its text. Claude Code (Claude Opus 5.5), in the same change that made Eldertree Forest a regional expansion of the game (Morkahja D-063).

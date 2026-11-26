@@ -16,7 +16,7 @@ Stone and worked metal form a heavy trunk decorated with geometric patterns and 
 
 ## Verdani Casket
 
-A darkwood casket is carved with flowing plants and animals. Ferns and flowers conceal it within young woodland associated with Eldertree Forest and the approaches to [Evergrove](../Places/Evergrove.md). Its matching key is also carved from darkwood. The exact border described by this account is unsettled.
+A darkwood casket is carved with flowing plants and animals. Ferns and flowers conceal it within young woodland of [Eldertree Forest](../Places/Eldertree_Forest.md), on the side that faces [Evergrove](../Places/Evergrove.md). Its matching key is also carved from darkwood.
 
 ## Green-Bronze Chest
 

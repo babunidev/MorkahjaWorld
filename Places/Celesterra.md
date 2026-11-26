@@ -16,6 +16,10 @@ Every district maintains carefully calibrated pressure, humidity, airflow veloci
 
 Above Celesterra and its mountain systems drift many [Grimnir Skylands](Grimnir_Skylands.md). The Aevis shape atmospheric currents below, while the [Grimnir](../Races/Grimnir.md) structure stability above, creating a quiet vertical equilibrium between air and stone.
 
+## The Grimnir Vault
+
+A stone-and-metal vault lies within a cave high in the mountains of Celesterra, beneath the drifting [Grimnir Skylands](Grimnir_Skylands.md). Its door fits closely into the rock face, concealed by moss, lichen, and ice. An intricately shaped keystone belongs to its locking mechanism. Who sealed it, and what it keeps, remain unknown.
+
 ## Known Structures
 
 - Artificial Sky Vaults.
