@@ -50,6 +50,17 @@ The four peoples eat and sleep, and sexual intimacy may play a role in reproduct
 
 The Grimnir, for example, are not expected to possess nipples for nursing their young; their established external mineral-bath development and nourishment do not require mammalian breastfeeding. Whether nipples exist merely as an outward feature remains open.
 
+### 05 — Facial anatomy
+
+All four peoples possess fundamentally human facial anatomy, with characteristic racial differences in proportions and elemental appearance. These are natural tendencies, not fixed facial templates.
+
+| People | Characteristic facial structure |
+| --- | --- |
+| Grimnir | Broad faces, pronounced brows, strong jaws and substantial noses. |
+| Verdani | Delicate faces, softer contours and varying degrees of animal resemblance. |
+| Rokur | Strong, defined facial structures with prominent cheekbones and jaws. |
+| Aevis | Elongated, refined faces with narrow noses and elegant, angular features. |
+
 ## Source relationships
 
 - [Race index](../Races/Races_Index.md)
