@@ -47,3 +47,5 @@ The Grimnir Vault sat in Deepstone Hollow, close to Everwinter but not clearly i
 ## 28 November 2026 — Defining the appearance of the four peoples
 
 The existing artwork and written descriptions revealed gaps in the visual identity of my four peoples. With the help of ChatGPT (GPT-6.2), which reviewed both repositories and prepared the questions, I began defining their anatomy and visual distinctions one decision at a time. The first two answers establish their shared humanoid foundation, the gods' original humanoid form, and the adult height ranges. The [dedicated decision record](RACIAL_APPEARANCE_DECISIONS.md) preserves confirmed answers as the review progresses; broader Verdani variation remains part of my creative direction. This is documentation work, not a rewrite of the lore archive or game assets.
+
+The next decision establishes characteristic body proportions for all four peoples. ChatGPT (GPT-6.2) proposed a synthesis of my earlier descriptions; I accepted it, and ChatGPT recorded it as decision 03 in the dedicated record.
