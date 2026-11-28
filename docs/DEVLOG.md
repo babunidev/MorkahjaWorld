@@ -51,3 +51,5 @@ The existing artwork and written descriptions revealed gaps in the visual identi
 The next decision establishes characteristic body proportions for all four peoples. ChatGPT (GPT-6.2) proposed a synthesis of my earlier descriptions; I accepted it, and ChatGPT recorded it as decision 03 in the dedicated record.
 
 For gender expression, my decision was to retain familiar masculine and feminine physical differences without assuming that each feature has the same reproductive function as in humans. ChatGPT (GPT-6.2) recorded this distinction as decision 04, preserving the existing race-specific accounts of reproduction and leaving their precise mechanisms open where not established.
+
+For facial anatomy, I accepted the characteristic facial structures proposed by ChatGPT (GPT-6.2), retaining the shared human-like foundation and individual variation. ChatGPT recorded these as decision 05.
