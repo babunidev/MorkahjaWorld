@@ -31,6 +31,17 @@ Natural adult height ranges remain within familiar human dimensions, with distin
 
 The Verdani are generally the smallest and the Aevis the tallest. These ranges describe natural adult stature; detailed proportions and the treatment of individual exceptions remain open.
 
+### 03 — Body proportions
+
+The four peoples have distinct natural physiques within their shared humanoid anatomy. These are characteristic proportions rather than a requirement for every individual to look identical.
+
+| People | Characteristic proportions |
+| --- | --- |
+| Grimnir | Broad shoulders, thick limbs, substantial hands and a compact torso. |
+| Verdani | Petite frames, slender limbs, narrow shoulders and delicate features. |
+| Rokur | Athletic, muscular bodies with strong shoulders and balanced human proportions. |
+| Aevis | Long limbs, elongated necks, slender torsos and elegant proportions. |
+
 ## Source relationships
 
 - [Race index](../Races/Races_Index.md)
