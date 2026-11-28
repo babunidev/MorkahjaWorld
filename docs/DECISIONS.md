@@ -55,3 +55,7 @@ ChatGPT (GPT-6) organized the interview decisions, drafted their canonical expre
 ## 2026-11-26 — The Grimnir Vault lies in Celesterra
 
 **Decision (Babuni):** the Grimnir Vault is in the mountains of Celesterra, the Grimnir homeland below their Skylands, not in Deepstone Hollow near Everwinter. The Verdani Casket lies in Eldertree Forest. **Open:** who sealed the vault and what it keeps. **Recorded by:** Claude Code (Claude Opus 5.5).
+
+## 2026-11-28 — Racial appearance review
+
+To clarify the visual identities of the four peoples while preserving individual variation, I began a question-by-question review. The [Racial Appearance Decisions](RACIAL_APPEARANCE_DECISIONS.md) record holds the confirmed answers, beginning with humanoid anatomy and adult height ranges. The Verdani retain broad natural variation, with its precise boundaries still open. ChatGPT (GPT-6.2) reviewed the world archive and game content and documented the approved decisions. Existing lore and game assets have not been rewritten.
