@@ -12,6 +12,8 @@ This file records changes to the repository and its project documentation. It is
 
 - Recorded approved decision 04 on human-like gender expression, elemental physiology and the distinction between appearance and biological function. ChatGPT (GPT-6.2). No existing lore or game content changed.
 
+- Recorded approved decision 05 on shared humanoid facial anatomy and characteristic facial structures for each people. ChatGPT (GPT-6.2). No existing lore or game content changed.
+
 ## 2026-11-26 — The Grimnir Vault lies in Celesterra; the Verdani Casket in Eldertree Forest
 
 - **Canon update, approved by Babuni:** the Grimnir Vault is in a mountain cave of Celesterra, below the Grimnir Skylands, because a Grimnir vault belongs in their homeland. The account moved from `Places/Deepstone_Hollow.md` to a new section of `Places/Celesterra.md`; Deepstone Hollow keeps its place near Everwinter Valley and points to the vault's new page; `Names_Index.md` links follow. The Verdani Casket's woodland is Eldertree Forest, on its Evergrove side (`Objects/Chests_and_Vaults.md`); the "unsettled border" sentence was removed. The vault's description is otherwise unchanged. Claude Code (Claude Opus 5.5), with the game's matching change (Morkahja D-063).
