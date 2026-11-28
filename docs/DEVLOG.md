@@ -43,3 +43,7 @@ The game's map had put the Eternal Twilight Grove in Evergrove, a land of dunes 
 ## 26 November 2026 — A vault in the Grimnir homeland
 
 The Grimnir Vault sat in Deepstone Hollow, close to Everwinter but not clearly in it. Celesterra is its home now, by my decision: the Grimnir may travel the whole world, but a vault belongs where their Skylands drift. Claude Code (Claude Opus 5.5) moved the account to Celesterra's page, left Deepstone Hollow its place near Everwinter with a pointer to the vault, and settled the Verdani Casket in Eldertree Forest, where my review of Evergrove placed it in the game.
+
+## 28 November 2026 — Defining the appearance of the four peoples
+
+The existing artwork and written descriptions revealed gaps in the visual identity of my four peoples. With the help of ChatGPT (GPT-6.2), which reviewed both repositories and prepared the questions, I began defining their anatomy and visual distinctions one decision at a time. The first two answers establish their shared humanoid foundation, the gods' original humanoid form, and the adult height ranges. The [dedicated decision record](RACIAL_APPEARANCE_DECISIONS.md) preserves confirmed answers as the review progresses; broader Verdani variation remains part of my creative direction. This is documentation work, not a rewrite of the lore archive or game assets.
