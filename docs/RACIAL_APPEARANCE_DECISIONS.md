@@ -42,6 +42,14 @@ The four peoples have distinct natural physiques within their shared humanoid an
 | Rokur | Athletic, muscular bodies with strong shoulders and balanced human proportions. |
 | Aevis | Long limbs, elongated necks, slender torsos and elegant proportions. |
 
+### 04 — Gender expression
+
+Masculine and feminine appearances manifest through familiar human-like physical differences, including facial structure, breasts, hips, shoulders and muscular development, with individual variation. These outward characteristics do not necessarily serve the same biological functions as their human equivalents.
+
+The four peoples eat and sleep, and sexual intimacy may play a role in reproduction in ways specific to their elemental physiology. Gendered physical characteristics may reflect reproductive functions, individual identity, or a combination of both, depending on the people and the individual. This does not establish a uniform reproductive mechanism or replace the existing race-specific accounts of reproduction.
+
+The Grimnir, for example, are not expected to possess nipples for nursing their young; their established external mineral-bath development and nourishment do not require mammalian breastfeeding. Whether nipples exist merely as an outward feature remains open.
+
 ## Source relationships
 
 - [Race index](../Races/Races_Index.md)
